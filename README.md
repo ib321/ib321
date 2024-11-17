@@ -69,7 +69,7 @@ I've worked on some projects that I've mentioned below. Apart from those project
 ![](https://github-contributor-stats.vercel.app/api?username=ib321&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ## 🌐 Socials:
-[![LinkedIn:IB](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/indian-bittu-379ab91b1) 
+[![LinkedIn:IB](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/indian-bittu) 
 
 ---
 <!--
